@@ -1,4 +1,4 @@
-Introduction
+Introduktion
 ===============================
 
-Here are my reports for the different kmoms.
+Här är mina redovisningar för alla kursmoment i kursen design samlade.
