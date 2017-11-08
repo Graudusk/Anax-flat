@@ -17,7 +17,7 @@ Tycker det är jättekul med programmering och att bygga webbapplikationer. Mitt
 
 Mina hobbies är att spela gitarr, spela tv-spel, resa, laga mat och reparera kod.
 
-<img width="300" alt="En bild på mig i Hakone, Japan" src="img/me.jpg" class="text-img">
+<img width="500" alt="En bild på mig i Hakone, Japan" src="img/me.jpg" class="text-img">
 
 Kul att ses,
 
