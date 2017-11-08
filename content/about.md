@@ -14,7 +14,8 @@ Kursen omfattar följande områden:
 * Använda PHP-ramverk för att skapa och designa webbplats
 * Sökmotoroptimering
 
-
 Den här sidans källkod finns tillgänglig på [Graudusk/Anax-flat](https://github.com/Graudusk/Anax-flat).
+
+Sidans temas källkod finns på [Graudusk/Anax-flat-theme](https://github.com/Graudusk/anax-flat-theme).
 
 Sidan är byggd av [Eric Johansson](https://github.com/Graudusk) (erjh17@student.bth.se).
