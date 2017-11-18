@@ -13,8 +13,19 @@ v1.1.0 (2017-11-02)
 * Tagged version
 * Added information about the course in about.md
 
-v1.2.0 (2017-11-08)
+v2.0.0 (2017-11-08)
 ---------------------------------------
 
 * Added theme to website
 * edited some navbar text
+
+v3.0.0 (2017-11-17)
+---------------------------------------
+
+* Added files for handling grid and typography in theme
+* Updated text in navbar and addes pages grid and typography
+
+v3.0.1 (2017-11-18)
+---------------------------------------
+
+* Wrote evaluation text for kmom03.
