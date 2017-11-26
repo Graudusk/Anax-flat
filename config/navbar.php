@@ -44,6 +44,24 @@ return [
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Testa vertikal gridupplägg"),
             ],
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys av hemsidor"),
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Visa temaväljare"),
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Visa temaväljare"),
+            ],
         ],
     ],
 
