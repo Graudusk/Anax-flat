@@ -23,7 +23,7 @@ return [
             "title"      => "Your own selected default theme",
             "class"      => "",
             "stylesheets" => [
-                "css/style.min.css"
+                "css/default.min.css"
             ]
         ],
 

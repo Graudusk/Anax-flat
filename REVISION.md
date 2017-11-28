@@ -29,3 +29,15 @@ v3.0.1 (2017-11-18)
 ---------------------------------------
 
 * Wrote evaluation text for kmom03.
+
+v4.0.0 (2017-11-27)
+---------------------------------------
+
+* Added analysis page and theme pages.
+* Added and edited themes.
+
+v4.0.1 (2017-11-28)
+---------------------------------------
+
+* Wrote evaluation text for kmom04.
+* Wrote analysis of web pages.
