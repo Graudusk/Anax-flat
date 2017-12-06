@@ -3,15 +3,12 @@ Färgschema
 
 Här är redovisningen för uppgiften i kmom04 om färgscheman.
 
-Hur gjorde jag urvalet?
-
 Jag tog en sida jag använder mycket, Stackoverflow, en sida jag tycker om designen på, Netflix, och en sida som har en utmärkande stil, Smashing Magazine.
-Vad för verktyg anväde jag mig av för att hämta färgen?
-Jag använde mig av verktyget "color picker" i FIrefox 
+Jag använde mig av verktyget "color picker" i Firefox 
 
 ##Webbplats 1, https://stackoverflow.com/ ##
 
-<img style="display:block;" height="500" src="img/Stackoverflow.png" alt="">
+[FIGURE src="image/Stackoverflow.png"]
 
 Header<div class="color-example" style="background-color: #FAFAFB"></div>
 Accentfärg, knappfärg, <div class="color-example" style="background-color: #0095FF"></div>
@@ -25,10 +22,10 @@ All text på sidan är typsnittet Arial som inte har seriffer.
 Webbplatsen har inte så utstickande färger på sidan vilket sätter fokus på sidans innehåll som är i linje med sidans syfte. Att det är en informations och innehållsbetonad sida framgår tydligt då inte speciellt mycket tid verkar ha lagts på att göra en unik och stilig design.
 
 
-##Webbplats 2, https://www.smashingmagazine.com/ ##
+##Webbplats 2, ##
+###Smashingmagazine ###
 
-<img style="display:block;" height="500" src="img/Smashing.png" alt="">
-
+[FIGURE src="image/Smashing.png"]
 
 Headerfärg 1<div class="color-example" style="background-color: #D33A2C"></div>
 Headerfärg 2<div class="color-example" style="background-color: #BC3428"></div>
@@ -52,7 +49,8 @@ Då webbplatsen är en sida om och för webbdesign så antas det att sidan själ
 
 ##Webbplats 3, https://www.netflix.com/ ##
 
-<img style="display:block;" height="500" src="img/Netflix.png" alt="">
+[FIGURE src="image/Netflix.png"]
+
 Accentfärg, knappfärg<div class="color-example" style="background-color: #E00712"></div>
 Färg på mittensektionen<div class="color-example" style="background-color: #141414"></div>
 Footer<div class="color-example" style="background-color: #000"></div>

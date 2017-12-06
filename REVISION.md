@@ -34,10 +34,18 @@ v4.0.0 (2017-11-27)
 ---------------------------------------
 
 * Added analysis page and theme pages.
-* Added and edited themes.
+* Added themes.
 
 v4.0.1 (2017-11-28)
 ---------------------------------------
 
 * Wrote evaluation text for kmom04.
 * Wrote analysis of web pages.
+* Edited themes.
+
+v5.0.0 (2017-12-06)
+---------------------------------------
+
+* Wrote evaluation text for kmom05.
+* Wrote analysis of web pages' speed.
+* Wrote image blog.

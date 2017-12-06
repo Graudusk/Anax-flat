@@ -62,6 +62,18 @@ return [
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Visa temaväljare"),
             ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Visa Testsida för bilder"),
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Visa Testsida för bilder"),
+            ],
         ],
     ],
 
@@ -78,14 +90,6 @@ return [
      
         // Here comes the menu structure
         "items" => [
-
-            "hem" => [
-                "text"  => t("Hem"),
-                "url"   => $this->di->get("url")->create("index"),
-                "title" => t("Startsidan"),
-                "mark-if-parent" => true,
-            ],
-
             "report" => [
                 "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
@@ -96,6 +100,48 @@ return [
                 "text"  => t("Om sidan"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("Information om kursen och sidan")
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Testa typografi"),
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Testa vertikal gridupplägg"),
+            ],
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys av hemsidor"),
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Visa temaväljare"),
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Visa temaväljare"),
+            ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Visa Testsida för bilder"),
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Visa Testsida för bilder"),
             ],
         ],
     ],
