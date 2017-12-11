@@ -1,7 +1,7 @@
 Hastighet
 ===============================
 
-Här är redovisningen för uppgiften i kmom04 om laddningshastighet och användbarhet.
+Här är redovisningen för uppgiften i kmom05 om laddningshastighet och användbarhet.
 
 Då det inte handlade om att analysera utseende så använde jag mig bara av sidor jag tycker om.
 
