@@ -54,3 +54,9 @@ v6.0.0 (2017-12-11)
 ---------------------------------------
 
 * Wrote an analysis article of web pages' adherence to the principles of design.
+
+v6.0.1 (2017-12-11)
+---------------------------------------
+
+* Created three themes that incorporates multiple design elements.
+* Wrote an article that shortly describes the different themes.

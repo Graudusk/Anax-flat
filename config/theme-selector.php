@@ -61,6 +61,26 @@ return [
 
         "separator2" => "------------------------------------------------",
 
+        "opaque" => [
+            "title"      => "A theme with a background photo, transparent sections and centered content.",
+            "class"      => "dark",
+            "stylesheets" => ["css/opaque.min.css"]
+        ],
+
+        "full-width" => [
+            "title"      => "A theme with a textured background and full-width content.",
+            "class"      => "dark",
+            "stylesheets" => ["css/full-width.min.css"]
+        ],
+
+        "gradiant" => [
+            "title"      => "A theme with gradient background color, pronounced borders and smaller images in the background.",
+            "class"      => "dark",
+            "stylesheets" => ["css/gradiant.min.css"]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
         "fun"       => [
             "title"      => "All fun, test and play, make it stand out!",
             "class"      => "fun",
