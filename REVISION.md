@@ -61,7 +61,7 @@ v6.0.1 (2017-12-12)
 * Created three themes that incorporates multiple design elements.
 * Wrote an article that shortly describes the different themes.
 
-v6.0.1 (2017-12-13)
+v6.0.2 (2017-12-13)
 ---------------------------------------
 
 * Created two themes that incorporates multiple design principles.
