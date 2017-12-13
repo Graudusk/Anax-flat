@@ -1,7 +1,3 @@
----
-titleBreadcrumb: Home
-
-...
 Teman
 ===============================
 

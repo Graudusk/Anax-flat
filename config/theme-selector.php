@@ -81,6 +81,20 @@ return [
 
         "separator3" => "------------------------------------------------",
 
+        "3d-color" => [
+            "title"      => "A theme with the design principles of variation and perspective inorporated.",
+            "class"      => "colorful",
+            "stylesheets" => ["css/3d-color.min.css"]
+        ],
+
+        "dark-balance" => [
+            "title"      => "A theme with the design principles of balance, unity and harmony inorporated.",
+            "class"      => "dark",
+            "stylesheets" => ["css/dark-balance.min.css"]
+        ],
+
+        "separator4" => "------------------------------------------------",
+
         "fun"       => [
             "title"      => "All fun, test and play, make it stand out!",
             "class"      => "fun",

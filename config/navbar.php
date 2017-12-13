@@ -57,12 +57,6 @@ return [
                 "title" => t("Visa temaväljare"),
             ],
 
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Visa temasidan"),
-            ],
-
             "images" => [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
@@ -75,11 +69,29 @@ return [
                 "title" => t("Visa bloggen"),
             ],
 
+            "themes" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("themes"),
+                "title" => t("Beskrivning av sidans teman."),
+            ],
+/*
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Visa temasidan"),
+            ],
+
             "design-element" => [
                 "text"  => t("Designelement"),
                 "url"   => $this->di->get("url")->create("design-element"),
                 "title" => t("Visa testsida för teman med olika designelement"),
             ],
+
+            "design-principles" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principles"),
+                "title" => t("Visa testsida för teman med olika designprinciper"),
+            ],*/
         ],
     ],
 
@@ -132,12 +144,6 @@ return [
                 "title" => t("Visa temaväljare"),
             ],
 
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Visa temasidan"),
-            ],
-
             "images" => [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
@@ -150,11 +156,29 @@ return [
                 "title" => t("Visa bloggen"),
             ],
 
+            "themes" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("themes"),
+                "title" => t("Beskrivning av sidans teman."),
+            ],
+/*
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Visa temasidan"),
+            ],
+
             "design-element" => [
                 "text"  => t("Designelement"),
                 "url"   => $this->di->get("url")->create("design-element"),
                 "title" => t("Visa testsida för teman med olika designelement"),
             ],
+
+            "design-principles" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principles"),
+                "title" => t("Visa testsida för teman med olika designprinciper"),
+            ],*/
         ],
     ],
 

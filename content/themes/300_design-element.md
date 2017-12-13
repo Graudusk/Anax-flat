@@ -2,7 +2,7 @@
 titleBreadcrumb: Home
 
 ...
-Teman
+Designelement
 ===============================
 
 Här är mina tre teman gjorda med 8 olika designelement i åtanke. 
