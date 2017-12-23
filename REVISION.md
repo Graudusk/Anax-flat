@@ -67,3 +67,8 @@ v6.0.2 (2017-12-13)
 * Created two themes that incorporates multiple design principles.
 * Wrote an article that shortly describes the different themes.
 * Wrote evaluation text for kmom06.
+
+v7.0.0 (2017-12-23)
+---------------------------------------
+
+* Wrote an article analyzing 4 websites' usability.
