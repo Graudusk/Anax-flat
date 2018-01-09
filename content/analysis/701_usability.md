@@ -1,7 +1,7 @@
 Användbarhet
 ===============================
 
-Jag använde mig av fempkunktslistan på [www.nngroup.com/articles/usability-101-introduction-to-usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) som stöd för att analysera webbsidorna.
+Jag använde mig av fempunktslistan på [www.nngroup.com/articles/usability-101-introduction-to-usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) som stöd för att analysera webbsidorna.
 
 **Learnability:** Hur enkelt är det för användare att utföra grundläggande uppgifter första gången de stöter på designen?
 

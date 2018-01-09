@@ -68,7 +68,8 @@ v6.0.2 (2017-12-13)
 * Wrote an article that shortly describes the different themes.
 * Wrote evaluation text for kmom06.
 
-v7.0.0 (2017-12-23)
+v7.0.0 (2018-01-09)
 ---------------------------------------
 
 * Wrote an article analyzing 4 websites' usability.
+* Wrote evaluation text for kmom10.
