@@ -21,29 +21,77 @@ return [
                 "mark-if-parent" => true,
             ],*/
 
+            "report" => [
+                "text"  => t("Redovisning"),
+                "url"   => $this->di->get("url")->create("report"),
+                "title" => t("Redovisningstexter för kursmomenten"),
+            ],
+
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("Information about the website")
+                "title" => t("Information om kursen och sidan")
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Testa typografi"),
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Testa vertikal gridupplägg"),
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys av hemsidor"),
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Visa temaväljare"),
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Visa Testsida för bilder"),
             ],
 
             "blogg" => [
-                "text"  => t("Tour diary"),
+                "text"  => t("Blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
-                "title" => t("Show the blog"),
+                "title" => t("Visa bloggen"),
             ],
 
-            "theme" => [
-                "text"  => t("Theme"),
+            "themes" => [
+                "text"  => t("Teman"),
                 "url"   => $this->di->get("url")->create("themes"),
-                "title" => t("Show theme info"),
+                "title" => t("Beskrivning av sidans teman."),
+            ],
+/*
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Visa temasidan"),
             ],
 
-            "theme selector" => [
-                "text"  => t("Theme selector"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("Show the blog"),
+            "design-element" => [
+                "text"  => t("Designelement"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Visa testsida för teman med olika designelement"),
             ],
+
+            "design-principles" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principles"),
+                "title" => t("Visa testsida för teman med olika designprinciper"),
+            ],*/
         ],
     ],
 
@@ -60,37 +108,77 @@ return [
      
         // Here comes the menu structure
         "items" => [
-
-            "hem" => [
-                "text"  => t("Home"),
-                "url"   => $this->di->get("url")->create("index"),
-                "title" => t("Start page"),
-                "mark-if-parent" => true,
+            "report" => [
+                "text"  => t("Redovisning"),
+                "url"   => $this->di->get("url")->create("report"),
+                "title" => t("Redovisningstexter för kursmomenten"),
             ],
 
             "about" => [
-                "text"  => t("About"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("Information about the website")
+                "title" => t("Information om kursen och sidan")
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Testa typografi"),
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Testa vertikal gridupplägg"),
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys av hemsidor"),
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Visa temaväljare"),
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Visa Testsida för bilder"),
             ],
 
             "blogg" => [
-                "text"  => t("Tour diary"),
+                "text"  => t("Blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
-                "title" => t("Show the tour diary"),
+                "title" => t("Visa bloggen"),
             ],
 
+            "themes" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("themes"),
+                "title" => t("Beskrivning av sidans teman."),
+            ],
+/*
             "theme" => [
-                "text"  => t("Theme"),
+                "text"  => t("Tema"),
                 "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Show theme info"),
+                "title" => t("Visa temasidan"),
             ],
 
-            "theme selector" => [
-                "text"  => t("Theme selector"),
-                "url"   => $this->di->get("url")->create("theme-selector"),
-                "title" => t("Show the blog"),
+            "design-element" => [
+                "text"  => t("Designelement"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Visa testsida för teman med olika designelement"),
             ],
+
+            "design-principles" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principles"),
+                "title" => t("Visa testsida för teman med olika designprinciper"),
+            ],*/
         ],
     ],
 

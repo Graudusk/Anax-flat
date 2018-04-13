@@ -1,1 +1,1 @@
-![Alt text](img/logo-black2.png)
+[FIGURE src="image/flash.jpg?w=940&h=312"]

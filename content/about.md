@@ -1,53 +1,21 @@
-About
+Om sidan
 ==============================================
+Den här sidan är byggd med anax-flat och visar upp redovisningstexter i kursen design.
 
-> ##A medium-sized band from a small town that's big in Japan!
+Kursen omfattar följande områden:
 
-##The band
+* Färglära och färgsättning av en webbplats
+* Typografi
+* Lagar och regler kring webbplatser
+* Anpassa webbplats för funktionshindrade
+* Grid-baserad layout, horisontell och vertikal
+* CSS-konstruktioner för style med CSS/LESS/SASS
+* Bygga tema till webbplats
+* Använda PHP-ramverk för att skapa och designa webbplats
+* Sökmotoroptimering
 
-We started practicing 3 years ago in Peter's basement. One year later we released our first demo tape.
+Den här sidans källkod finns tillgänglig på [Graudusk/Anax-flat](https://github.com/Graudusk/Anax-flat).
 
-Our sound is best described as pagan-rock mixed with melodic video-game metal.
+Sidans temas källkod finns på [Graudusk/Anax-flat-theme](https://github.com/Graudusk/anax-flat-theme).
 
-###Agnes Jensen - Guitar
-
-<div class="row">
-    [FIGURE src="image/2006171.jpg" class="column-lg-6"]
-    <div class="column-lg-6">
-        <p>Age: 25</p>
-        <p>Likes: Beer, cats and mushroom picking.</p>
-        <!-- <p>The boss and songwriter of the band. </p> -->
-    </div>
-</div>
-
-###Veronika Andersson - Guitar/Vocals
-
-<div class="row">
-    <div class="column-lg-6">
-        <p>Age: 25</p>
-        <p>Likes: Travel, reading, wine and julmust.</p>
-        <p></p>
-    </div>
-    [FIGURE src="image/1995320.jpg" class="column-lg-6"]
-</div>
-
-###Wille Svensson - Bass
-
-<div class="row">
-    [FIGURE src="image/bass.jpg" class="column-lg-6"]
-    <div class="column-lg-6">
-        <p>Age: 31</p>
-        <p>Likes: MMA and beer.</p>
-    </div>
-</div>
-
-###Sebastian Skoglund - Drums
-
-<div class="row">
-    <div class="column-lg-6">
-        <p>Age: 22</p>
-        <p>Likes: Beer, puppies and knitting. </p>
-    </div>
-    [FIGURE src="image/drums.jpg" class="column-lg-6"]
-</div>
-
+Sidan är byggd av [Eric Johansson](https://github.com/Graudusk) (erjh17@student.bth.se).

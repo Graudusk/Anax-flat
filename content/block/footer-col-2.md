@@ -1,7 +1,3 @@
-##Follow us on
+####Anax Flat
 
-<a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
-<a href="#"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
-<a href="#"><i class="fa fa-google-plus-square fa-2x" aria-hidden="true"></i></a>
-<a href="#"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
-
+Denna sida är byggd till kursen [design](https://dbwebb.se/kurser/design).

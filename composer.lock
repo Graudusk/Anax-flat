@@ -389,21 +389,17 @@
         },
         {
             "name": "scrivo/highlight.php",
-            "version": "v9.12.0.1",
+            "version": "v9.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scrivo/highlight.php.git",
-                "reference": "a4930dde24bf6b9064fb52c22d71211144567e7f"
+                "reference": "df9f732349c637c5dbc938c2f534640845c0644f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scrivo/highlight.php/zipball/a4930dde24bf6b9064fb52c22d71211144567e7f",
-                "reference": "a4930dde24bf6b9064fb52c22d71211144567e7f",
+                "url": "https://api.github.com/repos/scrivo/highlight.php/zipball/df9f732349c637c5dbc938c2f534640845c0644f",
+                "reference": "df9f732349c637c5dbc938c2f534640845c0644f",
                 "shasum": ""
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^4.8",
-                "symfony/finder": "^2.8"
             },
             "type": "library",
             "autoload": {
@@ -440,20 +436,20 @@
                 "highlight.php",
                 "syntax"
             ],
-            "time": "2017-12-24T23:01:41+00:00"
+            "time": "2017-11-15T23:20:02+00:00"
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.4.2",
+            "version": "v3.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "afe0cd38486505c9703707707d91450cfc1bd536"
+                "reference": "f6a99b95b338799645fe9f7880d7d4ca1bf79cc1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/afe0cd38486505c9703707707d91450cfc1bd536",
-                "reference": "afe0cd38486505c9703707707d91450cfc1bd536",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/f6a99b95b338799645fe9f7880d7d4ca1bf79cc1",
+                "reference": "f6a99b95b338799645fe9f7880d7d4ca1bf79cc1",
                 "shasum": ""
             },
             "require": {
@@ -498,7 +494,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-12-11T20:38:23+00:00"
+            "time": "2017-12-04T18:15:22+00:00"
         }
     ],
     "packages-dev": [],
