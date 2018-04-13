@@ -30,7 +30,8 @@ views:
                 view: blog-list
 
 ...
-Min bild blogg
-===========================
+Tour diary
+=============================
 
-Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.
+Here we upload photos from our concerts and submitted fan-photos.
+

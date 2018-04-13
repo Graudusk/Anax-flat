@@ -1,5 +1,7 @@
-Copyright &copy; 2017 [Eric Johansson](https://github.com/Graudusk) (erjh17@student.bth.se)
+Copyright &copy; 2018 [Art_ist](https://github.com/Graudusk)
 
 * [License](license)
 * [Cookies](cookies)
 * [Contact](contact)
+
+![Alt text](img/logo-white2.png)

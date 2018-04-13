@@ -1,24 +1,30 @@
 ---
 titleBreadcrumb: Home
+title: Home
 
 ...
-Min me-sida
-===============================
+<section class="section social">
+<h4>Follow us and get news, images and too much personal information!</h2>
+<p>
+    <a href="#"><i class="fa fa-facebook-square fa-4x" aria-hidden="true"></i></a>
+    <a href="#"><i class="fa fa-twitter-square fa-4x" aria-hidden="true"></i></a>
+    <a href="#"><i class="fa fa-google-plus-square fa-4x" aria-hidden="true"></i></a>
+    <a href="#"><i class="fa fa-linkedin-square fa-4x" aria-hidden="true"></i></a>
+</p>
+</section>
+<section class="section live-shows">
+<h1>
+    Catch us live! 
+</h1>
+<h2>Coming shows:</h2>
 
-Hej och välkommen!
+<h4>Stockholm 21/1 2018</h4>
 
-Mitt namn är Eric Johansson och jag är 25 år. Jag är född och uppvuxen i Enköping mellan Västerås och Uppsala, men har bott i Kristianstad de senaste 7 åren. Bortsett från förra året som jag spenderade i Japan. Som liten intresserade jag mig mycket för tv- och datorspel. Det förde mig in på intresset att modda spel.
+<h4>Oslo 25/1 2018</h4>
 
-Jag gick ett IT-program på gymnasiet på grund av mitt intresse för datorer och där fick jag vidgat intresse för till exempel 3d-grafik, webdesign, programmering etc.
+<h4>Gothenburg 27/1 2018</h4>
 
-Har jobbat som full-stack webbutvecklare/support på ett lokalt IT-företag sedan 2012. Där upptäckte jag hur man skriver kod "på riktigt" och hur utveckling egentligen ser ut i arbetslivet.
+<h4>London 29/1 2018</h4>
 
-Tycker det är jättekul med programmering och att bygga webbapplikationer. Mitt mål med studierna är att få mer kunskap inom de områden jag redan har erfarenhet av samt lära mig nya saker inom webbutveckling.
+</section>
 
-Mina hobbies är att spela gitarr, spela tv-spel, resa, laga mat och reparera kod.
-
-[FIGURE src="image/me.jpg" caption="En bild på mig i Hakone, Japan"]
-
-Kul att ses,
-
-/Eric
